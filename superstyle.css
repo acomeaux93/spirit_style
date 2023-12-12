@@ -1,20 +1,10 @@
-@font-face {
-  font-family: customFont1;
-  src: url('customFont1.woff') format('woff');
-}
-@font-face {
-  font-family: customFont2;
-  src: url('customFont2.woff') format('woff');
-}
+
 h1 {
-  font-family: customFont1;
   font-size: 70pt;
 }
 h2 {
-  font-family: customFont1;
   font-size: 60pt;
 }
 h3 {
-  font-family: customFont2;
   font-size: 5.5em;
 }
